@@ -1,0 +1,19 @@
+#content {
+  position: absolute;
+  top: 70px;
+  width: 99%;
+}
+
+#choicebox {
+text-align: center;
+}
+
+#chapitre {
+  text-decoration: none;
+  color: black;
+}
+
+#chapitre:hover {
+  text-decoration: underline;
+  color: cyan;
+}

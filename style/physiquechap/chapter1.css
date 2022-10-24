@@ -1,0 +1,13 @@
+.content {
+  min-width: 500px;
+  max-width: 90%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin-top: 60px;
+  width: 99%;
+  height: inherit;
+  padding-left: 40px;
+  font-size: 18px;
+  font-family: sans-serif;
+}

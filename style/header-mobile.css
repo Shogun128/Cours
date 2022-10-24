@@ -1,0 +1,8 @@
+#item {
+  color: gray;
+  text-decoration: none;
+}
+
+#item:hover {
+  color: white;
+}
